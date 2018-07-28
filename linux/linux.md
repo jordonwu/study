@@ -1,4 +1,2 @@
 # readme
 
-Readme for linux
-
