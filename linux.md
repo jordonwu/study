@@ -1,8 +1,0 @@
----
-description: About Linux
----
-
-# linux
-
-
-

@@ -1,6 +1,0 @@
----
-description: About MCU
----
-
-# mcu
-
