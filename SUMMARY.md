@@ -5,3 +5,5 @@
 * [linux](linux.md)
 * [Machine Vision](machine-vision.md)
 
+## ide
+
