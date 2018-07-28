@@ -7,3 +7,5 @@
 
 ## ide
 
+* [VS Code](ide/vs-code.md)
+
