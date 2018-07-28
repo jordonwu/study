@@ -4,4 +4,5 @@
 * [mv](mv.md)
 * [mcu](mcu.md)
 * [linux](linux.md)
+* [Machine Vision](machine-vision.md)
 
