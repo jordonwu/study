@@ -1,11 +1,9 @@
 # Table of contents
 
 * [README](README.md)
+* [10 - MCU](10-mcu.md)
 
-## 10 - MCU
+## 20 - Linux
 
-
-## 90 - ide
-
-* [VS Code](90-ide/vs-code.md)
+## 30 - GUI
 
