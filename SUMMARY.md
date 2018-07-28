@@ -6,3 +6,11 @@
 
 * [VS Code](ide/vs-code.md)
 
+## Linux
+
+## MCU
+
+## Machine Vision
+
+## GUI
+
