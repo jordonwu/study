@@ -14,7 +14,9 @@
 
 * [00 - GUI Basic](30-gui/00-gui-basic.md)
 * [10 - OpenVG](30-gui/10-openvg.md)
-* [20 - OpenGL](30-gui/20-opengl.md)
+* [20 - OpenGL](30-gui/20-opengl/README.md)
+  * [20.1 OpenGL Develop Environment](30-gui/20-opengl/20.1-opengl-develop-environment.md)
+  * [20.2 OpenGL Tutorial](30-gui/20-opengl/20.2-opengl-tutorial.md)
 * [30 - Vulkan](30-gui/30-vulkan/README.md)
   * [30.1 Vulkan Develope Environment](30-gui/30-vulkan/30.1-vulkan-develope-environment.md)
   * [30.2 Vulkan Tutorial](30-gui/30-vulkan/30.2-vulkan-tutorial.md)
@@ -23,7 +25,9 @@
 ## 40 - Machine Vision
 
 * [00 - Machine Vision Basic](40-machine-vision/00-machine-vision-basic.md)
-* [10 - Halcon](40-machine-vision/10-halcon.md)
+* [10 - Halcon](40-machine-vision/10-halcon/README.md)
+  * [10.1 Halcon Develope Environment](40-machine-vision/10-halcon/10.1-halcon-develope-environment.md)
+  * [10.2 Halcon Tutorial](40-machine-vision/10-halcon/10.2-halcon-tutorial.md)
 
 ## 90 - IDE
 
