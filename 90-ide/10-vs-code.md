@@ -2,7 +2,7 @@
 description: About Visual Studio Code
 ---
 
-# 01 - VS Code
+# 10 - VS Code
 
 ## 1. VS Code Install
 
