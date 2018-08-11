@@ -35,4 +35,5 @@
 
 * [90.00 - IDE Basic](90-ide/90.00-ide-basic.md)
 * [90.10 - VS Code](90-ide/90.10-vs-code.md)
+* [90.20 - Maven](90-ide/90.20-maven.md)
 
