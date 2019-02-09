@@ -8,7 +8,8 @@
 
 ## 20 - Linux
 
-* [20.00 - Linux Basic](20-linux/20.00-linux-basic.md)
+* [20.00 - Linux Basic](20-linux/20.00-linuxbasic/README.md)
+  * [20.00.01 Ubuntu Installation](20-linux/20.00-linuxbasic/20.00.01-ubuntu-installation.md)
 
 ## 30 - GUI
 
