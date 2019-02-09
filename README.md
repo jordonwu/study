@@ -1,4 +1,4 @@
 # README
 
-Readme file for study  repository, This repo will record study summary.
+Readme file for this repository, This repo will record summary of study.
 
